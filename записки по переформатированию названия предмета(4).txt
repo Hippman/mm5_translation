@@ -208,15 +208,15 @@ d1f8 - кнопки во время игры
 
 5baf2 - предположительно нажатая буква
 dseg:F862
-▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
 SLCO
 4db8e - мышиные кнопки для главного меню
 CLOSV
 c330 - клавиатурные кнопки
-▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
-i - items
-q - quick reference
-e - exchange
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
+i - items - Вещи - a2
+q - quick reference - бсТр - e2
+e - exchange - Смен - e1
 EIQ
 39a7c - таблица клавиш для меню персонажа
 IQE
@@ -268,17 +268,24 @@ U
 
 IQA
 
-▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
 QIA
  1Bh,   41h,   49h,   51h
 seg017:072A                                         ; DATA XREF: quest_menu+666↑o
 seg017:0732                 dw   0DCh,  0DDh,  0DEh,  0DFh ; value table for switch statement
 seg017:073A                 dw   0F2h,  0F3h
 334da - кнопки для меню с квестами
-▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
-Магазины начало B - Browse 1b517
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
+Магазины начало B - Browse 1b517, для мыши 4dd34
+B - Browse - Смотреть -e1
+
 потом WACMBSIF
+abcfimsw
 39c92 - BSIF
+B - buy - Куп - aa
+S - sell - Прод - af
+I - info - опОзн - ae
+F - fix - Чин - e7
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 обучалка 1b533
 T - train
@@ -321,7 +328,7 @@ FECA (по идее) огонь гром холод яд 2e543
 ACEF
 для мыши FECA 4dd52 
 
-▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
 Маяк ллойда 2f455
 2f262 - кнопка R для мыши
 У и В
@@ -352,13 +359,43 @@ W - ? - a3
 scrbdv
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
 Control panel
-E - effects - эФфект - e4
+E - effects - эФфEкт - a5
 M - music - Музыка - ac
 L - load - Загр - a7
-S - save - Сохр - e1
+S - save - СохрАнить - a0
 A - Save as - сОхр - ae
 Q - quit - Выход - a2
-W - help - Помощь - af
+W - help - ПомоЩь - af
+не сработало
+seg010:19EB jpt_2961B       dw offset loc_29667     77 17 A Save as меняем на S СохрАнить 9a 18
+seg010:19ED                 dw offset loc_29872     82 19 B
+seg010:19EF                 dw offset def_2961B		19 a6 C
+seg010:19F1                 dw offset def_2961B		a6 19 D
+seg010:19F3                 dw offset loc_29620		30 17 E
+seg010:19F5                 dw offset def_2961B		a6 19 F
+seg010:19F7                 dw offset loc_29864		74 19 G
+seg010:19F9                 dw offset def_2961B		a6 19 H
+seg010:19FB                 dw offset def_2961B		a6 19 I
+seg010:19FD                 dw offset def_2961B		a6 19 J
+seg010:19FF                 dw offset def_2961B		a6 19 K
+seg010:1A01                 dw offset loc_2970C		1c 18 L
+seg010:1A03                 dw offset loc_2963A		4a 17 M
+seg010:1A05                 dw offset def_2961B		a6 19 N
+seg010:1A07                 dw offset loc_29869		79 19 O
+seg010:1A09                 dw offset def_2961B		a6 19 P
+seg010:1A0B                 dw offset loc_297AB		bb 18 Q
+seg010:1A0D                 dw offset loc_29881		91 19 R
+seg010:1A0F                 dw offset loc_2978A		 S
+seg010:1A11                 dw offset def_2961B		a6 19 T
+seg010:1A13                 dw offset def_2961B		a6 19 U
+seg010:1A15                 dw offset def_2961B		a6 19 V
+seg010:1A17                 dw offset loc_297D7		e7 18 W
+
+  
+77 17 82 19 a6 19 a6 19 30 17 a6 19 74 19 a6 19
+a6 19 a6 19 a6 19 1c 18 4a 17 a6 19 79 19 a6 19
+bb 18 91 19 9a 18 a6 19 a6 19 a6 19 e7 18
+
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
 combat
 2e140 - клавиши
