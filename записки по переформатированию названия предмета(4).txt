@@ -407,41 +407,107 @@ Control panel
 E - effects - эФфEкт - a5
 M - music - Музыка - ac
 L - load - Загр - a7
-S - save - СохрАнить - a0 поменял местами вернуть
-A - Save as - сОхр - ae поменял местами вернуть
+S - save - СохрАнить - a0 
+A - Save as - сОхр - ae 
 Q - quit - Выход - a2
-W - help - ПомоЩь - af
+W - help - Помощь - af
 не сработало
 клавиатура 1ed4b
 мышь 4de83
-seg010:19EB jpt_2961B       dw offset loc_29667     77 17 A Save as меняем на S СохрАнить 9a 18
+
+9a 18 
+
+seg010:19EB jpt_2961B       dw offset loc_29667     77 17 A Save as 
 seg010:19ED                 dw offset loc_29872     82 19 B
 seg010:19EF                 dw offset def_2961B		19 a6 C
 seg010:19F1                 dw offset def_2961B		a6 19 D
-seg010:19F3                 dw offset loc_29620		30 17 E
+seg010:19F3                 dw offset loc_29620		30 17 E efx
 seg010:19F5                 dw offset def_2961B		a6 19 F
 seg010:19F7                 dw offset loc_29864		74 19 G
 seg010:19F9                 dw offset def_2961B		a6 19 H
 seg010:19FB                 dw offset def_2961B		a6 19 I
 seg010:19FD                 dw offset def_2961B		a6 19 J
 seg010:19FF                 dw offset def_2961B		a6 19 K
-seg010:1A01                 dw offset loc_2970C		1c 18 L
-seg010:1A03                 dw offset loc_2963A		4a 17 M
+seg010:1A01                 dw offset loc_2970C		1c 18 L oad
+seg010:1A03                 dw offset loc_2963A		4a 17 M usic
 seg010:1A05                 dw offset def_2961B		a6 19 N
 seg010:1A07                 dw offset loc_29869		79 19 O
 seg010:1A09                 dw offset def_2961B		a6 19 P
-seg010:1A0B                 dw offset loc_297AB		bb 18 Q
+seg010:1A0B                 dw offset loc_297AB		bb 18 Q uid dos
 seg010:1A0D                 dw offset loc_29881		91 19 R
-seg010:1A0F                 dw offset loc_2978A		 S
+seg010:1A0F                 dw offset loc_2978A		9a 18 S ave game
 seg010:1A11                 dw offset def_2961B		a6 19 T
 seg010:1A13                 dw offset def_2961B		a6 19 U
 seg010:1A15                 dw offset def_2961B		a6 19 V
-seg010:1A17                 dw offset loc_297D7		e7 18 W
+seg010:1A17                 dw offset loc_297D7		e7 18 W izard
 
-  
-77 17 82 19 a6 19 a6 19 30 17 a6 19 74 19 a6 19
-a6 19 a6 19 a6 19 1c 18 4a 17 a6 19 79 19 a6 19
-bb 18 91 19 9a 18 a6 19 a6 19 a6 19 e7 18
+а СохрАнить -	9a 18 
+б 			  	82 19
+в Выход		  	bb 18
+г			 	19 a6
+д				a6 19
+е	эФфEкт		30 17
+ж				a6 19
+з	Загр		1c 18
+и				a6 19
+й				a6 19
+к				a6 19
+л				79 19
+м	Музыка 		4a 17
+н				a6 19
+о	сОхр		77 17
+п	Помощь		e7 18
+р
+с
+т
+у
+ф
+х
+ц 
+
+
+77 17 аa 9a 18
+82 19 бb 82 19
+a6 19 вc bb 18
+a6 19 гd a6 19
+30 17 дe a6 19
+a6 19 еf 30 17
+74 19 жg 74 19
+a6 19 зh 1c 18
+a6 19 иi a6 19
+a6 19 йj a6 19
+a6 19 кk a6 19
+1c 18 лl a6 19
+4a 17 мm 4a 17
+a6 19 нn a6 19 
+79 19 оo 77 17
+a6 19 пp e7 18
+bb 18 рq a6 19
+91 19 сr 91 19
+9a 18 тs a6 19
+a6 19 уt a6 19
+a6 19 фu a6 19
+a6 19 хv a6 19
+e7 18 цw a6 19
+
+табличка переходов по 1ed4b
+9a 18 82 19 bb 18 a6 19 a6 19 30 17 74 19 1c 18 a6 19 a6 19 a6 19 a6 19
+4a 17 a6 19 77 17 e7 18 a6 19 91 19 a6 19 a6 19 a6 19 a6 19
+
+Понятно 83 eb 41 Надо поменять на 81 EB A0 00 только куда запихнуть?
+Пихать нужно в свободное место во вводе с клавиатуры и сделать туда и обатно jmp
+
+1ea7a
+mov     bx, BUKVA_KLAVISHI
+sub     bx, 41h ; 'A'
+
+По адресу 1ea7a пишем 
+ea 20 78 ca 38 81 fb 16 00 90
+
+по адресу 43f10 пишем
+8b 1e 62 f8 81 eb a0 00 ea 1f 17 91 19 90 90 90
+Что мы таким образом делаем. Делаем переход в свободную область, там делаем  sub     bx, a0h ;
+и возвращаемся обратно. Этот sub Больше, чем sub 41.
 
 ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲+
 combat
@@ -544,3 +610,10 @@ seg021:7816                 jmp     loc_4EB18
 и по адресу 43f80 меняем 2e a0 29 7c на 2e a0 2с 7c
 
 ##################################################
+для дебага
+адрес в ide = seg021:29e7 Или 4728:29e7 или 3fd7
+в dosbox 38ca:29e7
+
+значит чтобы получить адрес в dosbox надо из сегмента ida вычесть e5e
+
+27ef:171a - e5e = 1991:171a
