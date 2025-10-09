@@ -644,6 +644,56 @@ seg021:7816                 jmp     loc_4EB18
 теперь будем дебажить 33633
 3d94:0880 - e5e = 2F36:0880
 16ee:0b42 -e5e = 890:0b42
+4728:27fb-e5e=38ca:27fb
+35d5 -e5e=2777:2a57
+27ef:15b0 -e5e=
 ╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬
 во время начала новой игры опечатка: "ведите название игры".
+ ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+ рамка 1
+ 233-27 по 310-36
+ длина - 77
+ высота - 9
+ x1 - 233 = 0E9h
+ y1 - 27 = 0x18
+ изображение находится в combat.icn последним
+ 2dc09 - высота рамки для рисования ставим 12
+ 2dc0b - начальная координата y ставим 0a
+ но это внеший вид. Ведут себя при нажатии рамки без учета этих координат.
  
+ кнопки похоже находятся в сегменте 56e2
+  Attributes: bp-based frame
+
+fast_attack_config_menu proc far
+
+var_2= word ptr -2
+arg_0= dword ptr  6
+
+enter   2, 0
+push    si
+call    sub_18E54
+push    ds              ; int
+push    offset aTrainIcn_0 ; "train.icn"
+call    sub_18E0A
+add     sp, 4
+mov     word ptr button_X+2, ds
+mov     word ptr button_X, 1A3Ch
+mov     word ptr button_Y+2, ds
+mov     word ptr button_Y, 1A42h
+mov     word ptr dword_6095A+2, ds
+mov     word ptr dword_6095A, 1A44h
+mov     word ptr dword_60956+2, ds
+mov     word ptr dword_60956, 1A46h
+mov     word ptr dword_60952+2, ds
+mov     word ptr dword_60952, 1A48h
+mov     word ptr dword_6094E+2, ds
+mov     word ptr dword_6094E, 1A4Ah
+mov     ax, word_6098A
+mov     word_6094C, ax
+push    0Ah
+call    sub_184E1
+вот эти хрени в начале это физическое расположение кнопок
+тут 2 кнопки по идее
+ 
+ 
+ вот эти button_X  надо пройтись и понаходить начала таблиц с настройками кнопок
