@@ -1,0 +1,608 @@
+1||
+2|Vertigo Guild Member|Член гильдии Вертиго
+3|Nightshadow Guild Member|Член гильдии Найтшэдоу
+4|Rivercity Guild Member|Член гильдии Риверсити
+5|Asp Guild Member|Член гильдии Эспа
+6|Winterkill Guild Member|Член гильдии Винтеркилла
+7|Shangri-La Guild Member|Член гильдии Шангри-Ла
+8|Outstanding Citizen|Почётный горожанин
+9|Red Dwarf Badge of Courage|Алый знак доблести Рыжих дворфов
+10|Convicted Thief|Осуждённый вор
+11|%u Warzone Wins|%u побед на Арене
+12|Super Explorer|Великий исследователь
+13|Master of Golems|Мастер големов
+14|Taxman Emeritus|Почётный сборщик податей
+15|Rescued Crodo|Спасён Кродо
+16|Found Shangri-La|Найден город Шангри-Ла
+17|Prince of Thieves|Принц воров
+18|Ghostslayer Extraordinaire|Выдающийся борец с призраками
+19|Legendary %s|Легендарный %s
+20|Rescued Celia|Спасена Селия
+21|Helped Orothin|Оказана помощь Орофину
+22|Restored Falista|Возвращена Фалиста
+23|Turned Seasons|Сменены времена года
+24|Helped Carlawna|Оказана помощь Карлавн
+25|Helped Falagar|Оказана помощь Фалагару
+26|Restored Mirabeth|Снято проклятие с Мирабет
+27|Helped Danulf|Оказана помощь Данульфу
+28|Saved Elves|Спасены эльфы
+29|Civilized One|Культурный человек
+30|Helped Captain Nystor|Оказана помощь капитану Найстору
+31|Liberated Pagoda|Освобождена пагода
+32|Fisherman's Friend|Друг рыбака
+33|Helped Arie|Оказана помощь Арию
+34|Freed Ligono|Лигоно упокоен с миром
+35|Helped Glom|Оказана помощь Глому
+36|Helped Halon|Оказана помощь Халону
+37|Princess' Favorite|Фаворит принцессы
+38|Appeased Barok|Утихомирен Барок
+39|Loremaster of Worms|Хранитель знаний червей
+40|Loremaster of Lizards|Хранитель знаний ящеров
+41|Loremaster of Serpents|Хранитель знаний змей
+42|Loremaster of Drakes|Хранитель знаний змиев
+43|Loremaster of Dragons|Хранитель знаний драконов
+44|DEFEATED LORD XEEN|ПОБЕЖДЁН ЛОРД КСИН
+45|Master of Words|Мастер слова
+46|Member Drawkcab Brotherhood|Член Братства Дерепан Модаз
+47|Chosen one|Избранный
+48|Disciple of Bark|Ученик Барка
+49|Cartographer's Challenge|Испытание картографа
+50|Merchant's Challenge|Испытание торговца
+51|Superior Intellect|Превосходный интеллект
+52|Helped Dreyfus|Оказана помощь Дрейфусу
+53|Returned Statuettes|Возвращены статуэтки
+54|Drawkcab Extraordinaire|Выдающийся знаток палиндромов
+55|Enchanted Bridle|Зачарованная узда
+56|Helped Kramer|Оказана помощь Крамеру
+57|Helped Vespar|Оказана помощь Весперу
+58|Fed Nibbler|Накормлен зубастик
+59|Rescued Sprite|Спасена фея
+60|Taste Tester Royale|Королевский дегустатор
+61|Helped Ector|Оказана помощь Эктору
+62|Restored Fountain of Youth|Восстановлен фонтан молодости
+63|Awakened Fire Sleeper|Пробуждён Огненный Спящий
+64|Awakened Air Sleeper|Пробуждён Воздушный Спящий
+65|Awakened Earth Sleeper|Пробуждён Земной Спящий
+66|Awakened Water Sleeper|Пробуждён Водный Спящий
+67|Cleaned up Castleview|Очищен Каслвью
+68|Rescued Jasper|Спасён Джаспер
+69|Helped Nadia|Оказана помощь Наде
+70|Exterminated Queen Rat|Уничтожена Королева Крыс
+71|Defeated Xenoc and Morgana|Побеждены Зенок и Моргана
+72|Freed Sandro|Упокоен с миром Сандро
+73|Cheered Dimitri|Воодушевлён Димитрий
+74|Helped Megan|Оказана помощь Меган
+75|Rescued Roland|Спасён Роланд
+76|Restored Castle Kalindra|Восстановлен замок Калиндра
+77|DEFEATED SHELTEM|ПОБЕЖДЁН ШЕЛТЕМ
+78|Goober|Герой
+79|Super Goober|Супер-герой
+80|Helped Caleb|Оказана помощь Калебу
+81|Saved the Queen|Спасена королева
+82|Freed Corak|Корак упокоен с миром
+83|Returned Orb|Возвращена сфера
+84|Paladin's Friend|Друг паладина
+85|Castleview Guild Member|Член Гильдии Каслвью
+86|Sandcaster Guild Member|Член гильдии Сэндкастер
+87|Lakeside Guild Member|Член гильдии Лэйксайд
+88|Necropolis Guild Member|Член гильдии Некрополя
+89|Olympus Guild Member|Член гильдии Олимпа
+90|====|====
+91||
+92|Shrine of Fire at E2,13,3 adds 50 to temporary fire resistance.{a}|Святыня огня на E2,13,3 временно дарует 50 к сопротивляемости огню.{a}
+93|Shrine of Electricity at D3,15,4 adds 50 to temporary electricity resistance.{a}|Святыня электричества на D3,15,4 временно дарует 50 к сопротивляемости электричеству.{a}
+94|Shrine of Cold at A4,12,14 adds 50 to temporary cold resistance.{a}|Святыня холода на A4,12,14 временно дарует 50 к сопротивляемости холоду.{a}
+95|Shrine of Poison at F3,14,6 adds 50 to temporary poison resistance.{a}|Святыня яда на F3,14,6 временно дарует 50 к сопротивляемости яду.{a}
+96|Shrine of Magic at C2,15,0 adds 50 to temporary magic resistance.{a}|Святыня магии на C2,15,0 временно дарует 50 к сопротивляемости магии.{a}
+97|Shrine of Energy at A1,7,6 adds 50 to temporary energy resistance.{a}|Святыня энергии на A1,7,6 временно дарует 50 к сопротивляемости энергии.{a}
+98|Elemental Shrine at E3,9,14 adds 20 to temporary elemental resistance.{a}|Святыня стихий на E3,9,14 временно дарует 20 к сопротивляемости стихиям.{a}
+99|Well of Might at D2,3,8 adds 20 to temporary Might.{a}|Колодец силы на D2,3,8 временно дарует 20 к Силе.{a}
+100|Well of Intellect at B3,15,4 adds 50 to temporary Intellect.{a}|Колодец интеллекта на B3,15,4 временно дарует 50 к Интеллекту.{a}
+101|Well of Personality at C3,0,0 adds 50 to temporary Personality.{a}|Колодец силы духа на C3,0,0 временно дарует 50 к Силе духа.{a}
+102|Well of Endurance at C1,2,4 adds 50 to temporary Endurance.{a}|Колодец выносливости на C1,2,4 временно дарует 50 к Выносливости.{a}
+103|Well of Speed at E2,3,4 adds 50 to temporary Speed.{a}|Колодец скорости на E2,3,4 временно дарует 50 к Скорости.{a}
+104|Well of Accuracy at B3,0,4 adds 50 to temporary Accuracy.{a}|Колодец точности на B3,0,4 временно дарует 50 к Точности.{a}
+105|Wishing Well at F3,1,7 adds 60 to temporary Luck.{a}|Колодец желаний на F3,1,7 временно дарует 60 к Удаче.{a}
+106|Olympian Fountain at C3,15,10 adds 10 to temporary physical statistics.{a}|Олимпийский фонтан на C3,15,10 временно дарует 10 к физическим показателям.{a}
+107|Sage's Fountain at D3,8,9 adds 20 to temporary mental statistics.{a}|Фонтан мудреца на D3,8,9 временно дарует 20 к ментальным показателям.{a}
+108|Waters of Power at F3,7,7 add 25 to temporary Hit Points.{a}|Воды могущества на F3,7,7 временно даруют 25 очков здоровья.{a}
+109|Waters of Great Power at A1,4,12 add 250 temporary Hit Points.{a}|Воды великого могущества на A1,4,12 временно даруют 250 очков здоровья.{a}
+110|Waters of Magic at E3,8,6 add 25 temporary Spell Points.{a}|Воды магии на E3,8,6 временно даруют 25 очков маны.{a}
+111|Waters of Great Magic at A4,3,3 add 250 temporary Spell Points.{a}|Воды великой магии на A4,3,3 временно даруют 250 очков магии.{a}
+112|Fountain of Protection at F3,12,12 adds 5 to temporary Armor Class.{a}|Фонтан защиты на F3,12,12 временно дарует 5 к классу брони.{a}
+113|Fountain of Great Protection at A3,3,14 adds 30 to temporary Armor Class.{a}|Фонтан великой защиты на A3,3,14 временно дарует 30 к классу брони.{a}
+114|Fountain of Ability at F3,0,1 adds 5 to temporary level.{a}|Фонтан умения на F3,0,1 временно дарует 5 уровней.{a}
+115|The Prayermaster skill is sold at A2,6,13 for 10,000 gold.{a}|Навык Магистра молитвы продаётся на A2,6,13 за 10.000 золотых.{a}
+116|The Spot Secret Doors skill is sold at E3,11,12 for 500 gold.{a}|Навык обнаружения скрытых дверей продаётся на E3,11,12 за 500 золотых.{a}
+117|The Merchant skill is sold at D2,14,2 for 6,000 gold.{a}|Навык Торговца продаётся на D2,14,2 за 6.000 золотых.{a}
+118|Turning the seasons by visiting the druids at B2,10,1 (Summer), C2,15,9 (Autumn), A3,6,1 (Winter), and D3,3,14(Spring) will remove all unnatural aging.{a}|Смена времени года при посещении друидов на B2,10,1 (лето), C2,15,9 (осень), A3,6,1 (зима), и D3,3,14 (весна) уберёт неестественный возраст.{a}
+119|====|====
+120||
+121|{c:04} * {c:d}Slay the king of the Mad Dwarf Clan and report back to Mayor Gunther (Vertigo,14,5).|{c:04} * {c:d}Убейте короля клана Безумных дворфов и доложите об этом мэру Гюнтеру (Вертиго,14,5).
+122|{c:04} * {c:d}Gather Phirna roots for Myra the Herbalist (F3,9,11) for use in antidote potions.|{c:04} * {c:d}Принесите корень фирны травнице Майре (F3,9,11) для приготовления противоядий.
+123|{c:04} * {c:d}Free Celia from the clutches of the zombies in the forest and return her to Derek (F3,4,5).|{c:04} * {c:d}Вырвите Селию из лап зомби, что обитают в лесу, и сопроводите её к Дереку (F3,4,5).
+124|{c:04} * {c:d}Retrieve the Alacorn of Falista from the Witch's Tower and return it to Valia (F4,9,3).|{c:04} * {c:d}Заберите рог Фалисты из Ведьминой башни и верните его Валии (F4,9,3).
+125|{c:04} * {c:d}Find Orothin's bone whistle and return it to him (F3,9,6).|{c:04} * {c:d}Найдите и верните Орофину (F3,9,6) его костяной свисток.
+126|{c:04} * {c:d}Find Ligono's skull and return it to him (D3,12,8) so he may rest in peace.|{c:04} * {c:d}Найдите и верните Лигоно (D3,12,8) его череп, чтобы он мог наконец упокоиться с миром.
+127|{c:04} * {c:d}Get Barok's pendant from the sorceress' of Rivercity and return it to Barok (Rivercity,25,20).|{c:04} * {c:d}Заберите магический кулон у волшебниц Риверсити и верните его Бароку (Риверсити,25,20).
+128|{c:04} * {c:d}Get Princess Roxanne's tiara from the Robbers of Rivercity and return it to Princess Roxanne (Castle Burlock,level 3,2,11)|{c:04} * {c:d}Отберите у грабителей Риверсити диадему принцессы Роксаны и верните её законной владелице (замок Барлок, уровень 3,2,11).
+129|{c:04} * {c:d}Return the Scarab of Imaging to Carlawna (C2,10,6).|{c:04} * {c:d}Верните Карлавн (С2,10,6) её амулет-скарабей Воплощения.
+130|{c:04} * {c:d}Return the Crystals of Piezoelectricity to Falagar (C2,8,11).|{c:04} * {c:d}Верните Фалагару (C2,8,11) его кристаллы Пьезоэлектричества.
+131|{c:04} * {c:d}Steal the Elixir of Restoration from the Yak Temple and give it to Mirabeth (D4,12,3).|{c:04} * {c:d}Выкрадите эликсир Восстановления из храма Яка и принесите его Мирабет (D4,12,3).
+132|{c:04} * {c:d}Find the Faery Wand and return it to Danulf (C3,14,5).|{c:04} * {c:d}Найдите Жезл фей и верните его Данульфу (C3,14,15).
+133|{c:04} * {c:d}Find the Holy Book of Elvenkind and return it to Tito (C3,3,8).|{c:04} * {c:d}Найдите Священную Книгу Эльфов и верните её Тито (C3,3,8).
+134|{c:04} * {c:d}Destroy the Lair of the Trolls and return to Thickbark (B3,6,3) for your reward.|{c:04} * {c:d}Уничтожьте логово троллей и возвращайтесь к Толстокору (B3,6,3) за наградой.
+135|{c:04} * {c:d}Destroy the Lair of the Ogres and return to Captain Nystor (C2,9,1) for your reward.|{c:04} * {c:d}Уничтожьте логово огров и возвращайтесь за наградой к капитану Найстору (C2,9,1).
+136|{c:04} * {c:d}Reclaim Kai Wu's Pagoda from the Ninja Clan (A3,15,12).|{c:04} * {c:d}Очистите пагоду Кая Ву (A3,15,12) от клана ниндзя.
+137|{c:04} * {c:d}Slay the monsters of the lake and return to Medin (C3,12,13).|{c:04} * {c:d}Убейте морских чудовищ и возвращайтесь к Медину (C3,12,13).
+138|{c:04} * {c:d}Save Winterkill from it's curse and return to Randon (Winterkill,8,13).|{c:04} * {c:d}Избавьте Винтеркилл от насланного на него проклятия и возвращайтесь к Рэндону (Винтеркилл,8,13).
+139|{c:04} * {c:d}Destroy the lair of the Cyclops and return to Glom (A3,10,0) for your reward.|{c:04} * {c:d}Разрушьте логово циклопов и возвращайтесь к Глому (A3,10,0) за своим вознаграждением.
+140|{c:04} * {c:d}Find the Everhot Lava Rock and give it to Halon (B3,9,6).|{c:04} * {c:d}Найдите Вечно горячий кусок пемзы и принесите его Халону (B3,9,6).
+141|{c:04} * {c:d}Retrieve the Scroll of Insight from Castle Basenji and return it to Arie (A1,11,5).|{c:04} * {c:d}Заберите Cвиток Мудрости из замка Базенджи и верните его Арию (A1,11,5).
+142|{c:04} * {c:d}Free Crodo from the clutches of the evil wizard Darzog and return to Artemus (Castle Burlock,1,4).|{c:04} * {c:d}Освободите Кродо из башни злого чародея Дарзога и возвращайтесь к Артемусу (замок Барлок,1,4).
+143|{c:04} * {c:d}Climb Darzog's Tower, gain entrance to Castle Xeen, slay Lord Xeen, and save the world.|{c:04} * {c:d}Взберитесь на башню Дарзога, получите пропуск в Замок Ксин, сразите Лорда Ксина и спасите мир.
+144|{c:04} * {c:d}Find the 6th mirror and return to King Burlock (Castle Burlock,8,1).|{c:04} * {c:d}Найдите 6-е зеркало и верните его королю Барлоку (замок Барлок,8,1).
+145|{c:04} * {c:d}Take the Last Flower of Summer to the Autumn Druid so that Autumn may begin.|{c:04} * {c:d}Принесите друиду Осени Последний цветок лета, чтобы осень смогла вступить в свои права.
+146|{c:04} * {c:d}Take the Last Fallen leaf of Autumn to the Winter Druid so that Winter may begin.|{c:04} * {c:d}Принесите друиду Зимы Последний опавший лист осени, чтобы зима смогла вступить в свои права.
+147|{c:04} * {c:d}Take the Last Snowflake of Winter to the Spring Druid so that Spring may begin.|{c:04} * {c:d}Принесите друиду Весны Последнюю снежинку зимы, чтобы весна смогла вступить в свои права.
+148|{c:04} * {c:d}Take the Last Raindrop of Spring to the Summer Druid so that Summer may begin.|{c:04} * {c:d}Принесите друиду Лета Последнюю дождевую капельку весны, чтобы лето смогло вступить в свои права.
+149|{c:04} * {c:d}Rid Vertigo of the plague of pests and report back to Mayor Gunther (Vertigo,14,5).|{c:04} * {c:d}Избавьте Вертиго от нашествия паразитов и доложите об этом мэру Гюнтеру (Вертиго,14,5).
+150|{c:04} * {c:d}Find the key to the Western Tower and return it to Dreyfus at A3,8,10.|{c:04} * {c:d}Отыщие ключ в Западную башню и верните его Дрейфусу на A3,8,10.
+151|{c:04} * {c:d}Collect rubies from the gemstone mines and bring them to the Ruby Smith at A3,12,14 for magic weapons and armor.|{c:04} * {c:d}Соберите рубины в самоцветных шахтах и принесите их Кузнецу по рубинам на A3,12,14 для магических оружия и брони.
+152|{c:04} * {c:d}Collect emeralds from the gemstone mines and bring them to the Emerald Smith at A3,13,12 for magic weapons and armor.|{c:04} * {c:d}Соберите изумруды в самоцветных шахтах и принесите их Кузнецу по изумрудам на A3,13,12 для магических оружия и брони.
+153|{c:04} * {c:d}Collect Sapphires from the gemstone mines and bring them to the Sapphire Smith at A3,15,11 for magic weapons and armor.|{c:04} * {c:d}Соберите сапфиры в самоцветных шахтах и принесите их Кузнецу по сапфирам на A3,15,11 для магических оружия и брони.
+154|{c:04} * {c:d}Collect Diamonds from the gemstone mines and bring them to the Diamond Smith at B3,1,12 for magic weapons and armor.|{c:04} * {c:d}Соберите алмазы в самоцветных шахтах и принесите их Кузнецу по алмазам на B3,1,12 для магических оружия и брони.
+155|{c:04} * {c:d}Find the three golden statuettes and return them to Luna at A4,13,15 to restore her powers of healing.|{c:04} * {c:d}Найдите три золотых статуэтки и верните их Луне на A4,13,15 для восстановления её целебных сил.
+156|{c:04} * {c:d}Get an enchantress to enchant Ambrose's bridle and return to him at B1,12,5.|{c:04} * {c:d}Найдите чародейку для зачарования узды Эмброуза и вернитесь к нему на B1,12,5.
+157|{c:04} * {c:d}Destroy the Ogres near Ogre Pass and return to Kramer with the good news at B3,11,4.|{c:04} * {c:d}Расправьтесь с людоедами близ Перевала людоеда и вернитесь к Крамеру с хорошими новостями на B3,11,4.
+158|{c:04} * {c:d}Find Vespar's emerald handle and return it to him at B3,7,1.|{c:04} * {c:d}Отыщите изумрудную головку Веспара и верните её ему на B3,7,1.
+159|{c:04} * {c:d}Bring Monga Melons to Nibbler at B4,3,12.|{c:04} * {c:d}Принесите ПерДыни Нибблеру на B4,3,12.
+160|{c:04} * {c:d}Rescue the Sprite captured by the Orcs and return with the good news to C4,1,7.|{c:04} * {c:d}Вызволите фею, пленённую орками и вернитесь с хорошими новостями на C4,1,7.
+161|{c:04} * {c:d}Find the Chalice of Protection and bring it to Bosco at D1,1,8.|{c:04} * {c:d}Найдите Чашу защиты и принесите её Боско на D1,1,8.
+162|{c:04} * {c:d}Find Ector's ring and return it to him at E2,3,12.|{c:04} * {c:d}Отыщите кольцо Эктора и верните его ему на E2,3,12.
+163|{c:04} * {c:d}Find Caleb's magnifying glass and return it to him at E3,13,13.|{c:04} * {c:d}Найдите увеличительное стекло Калеба и верните его ему на E3,13,13.
+164|{c:04} * {c:d}Find the Jewel of Ages and return it to Thaddeus at F4,6,7.|{c:04} * {c:d}Найдите Алмаз Вечности и верните его Тадеусу на F4,6,7.
+165|{c:04} * {c:d}Stop Gettlewaith the gremlin from sabotaging the town and report back to Mayor Snarfblad in Castleview at 23,27.|{c:04} * {c:d}Заставьте гремлина Джетлуэйтзи прекратить саботаж в 
+городе и доложите Мэру Снарфблад в Каслвью на  23,27.
+166|{c:04} * {c:d}Release Jethro's brother from jail and return to Jethro with the good news in Castleview at 22,24.|{c:04} * {c:d}Освободите брата Джетро из тюрьмы и вернитесь к Джетро с хорошими новостями в Каслвью на 22,24.
+167|{c:04} * {c:d}Find and return Nadia's onyx necklace in Castleview at 27,19.|{c:04} * {c:d}Найти и вернуть ониксовое ожерелье Нади из Каслвью
+на 27,19.
+168|{c:04} * {c:d}Put an end to Xenoc and Morgana's reign of terror and report back to Astra in Sandcaster at 20,14.|{c:04} * {c:d}Положите конец террору Ксенока и Морганы и доложите Астре в Сандкастер 20,14.
+169|{c:04} * {c:d}Find Sandro's heart and return it to him in Necropolis at 10,8.|{c:04} * {c:d}Найдите сердце Сандро и верните его ему в Некрополис на 10,8.
+170|{c:04} * {c:d}Save Queen Kalindra!|{c:04} * {c:d}Спасите королеву Калиндру!
+171|{c:04} * {c:d}Talk to Ambrose, the Queens Knight, in Griffin Pass.|{c:04} * {c:d}Поговорите с Эмброузом, рыцарем королевы, на перевале Гриффона
+172|{c:04} * {c:d}Find the Songbird of Serenity and return to Megan in Castle Kalindra level 2 at 11,15 with the good news.|{c:04} * {c:d}Найдите Птицу Спокойствия и верните ее Меган в замок Калиндры уровень  2 на 11,15 с хорошими новостями.
+173|{c:04} * {c:d}Find energy disks and bring them to Ellinger.|{c:04} * {c:d}Найдите энергетические диски и принесите их Эллингеру.
+174|{c:04} * {c:d}Find a Dragon Egg and bring it to Alister in the Dragon Tower, level 1, at 6,5 for a BIG reward!|{c:04} * {c:d}Найдите Яйцо Дракона и принесите его Алистеру в башню Дракона уровень 1, на 6,5 за БОЛЬШУЮ награду!
+175|0|0
+176|0|0
+177|{c:04} * {c:d}Electricity resistance +50 at D3,15,4.|{c:04} * {c:d}Защита от Грома +50 в D3,15,4.
+178|{c:04} * {c:d}Cold resistance +50 at A4,12,14.|{c:04} * {c:d}Защита от Холода +50 в A4,12,14.
+179|{c:04} * {c:d}Poison resistance +50 at F3,14,6.|{c:04} * {c:d}Защита от Яда +50 в F3,14,6.
+180|{c:04} * {c:d}Magic resistance +50 at C3,15,0|{c:04} * {c:d}Защита от Магии +50 в C3,15,0
+181|{c:04} * {c:d}Energy resistance +50 at A1,7,6.|{c:04} * {c:d}Защита от Энергии +50 в A1,7,6.
+182|{c:04} * {c:d}Elemental resistance +20 at E3,9,14.|{c:04} * {c:d}Защита от Стихий +20 в E3,9,14.
+183|{c:04} * {c:d}Might +50 at D2,3,8|{c:04} * {c:d}Сила +50 в D2,3,8.
+184|{c:04} * {c:d}Intellect +50 at B3,15,4.|{c:04} * {c:d}Интеллект +50 в B3,15,4.
+185|{c:04} * {c:d}Personality +50 at C3,0,0.|{c:04} * {c:d}Сила духа +50 в C3,0,0.
+186|{c:04} * {c:d}Endurance +50 at C1,2,4.|{c:04} * {c:d}Сложение +50 в C1,2,4.
+187|{c:04} * {c:d}Speed +50 at E2,3,4.|{c:04} * {c:d}Скорость +50 в E2,3,4.
+188|{c:04} * {c:d}Accuracy +50 at B3,0,3.|{c:04} * {c:d}Меткость +50 в B3,0,3.
+189|{c:04} * {c:d}Luck +60 at F3,1,7.|{c:04} * {c:d}Удача +60 в F3,1,7.
+190|{c:04} * {c:d}Physical statistics +10 at C3,15,10.|{c:04} * {c:d}Физические показатели +10 в C3,15,10.
+191|{c:04} * {c:d}Mental statistics +10 at D3,8,9.|{c:04} * {c:d}Умственные показатели +10 в D3,8,9.
+192|{c:04} * {c:d}Hit Points +25 at F3,7,7.|{c:04} * {c:d}Здоровье +25 в F3,7,7.
+193|{c:04} * {c:d}Hit Points +250 at A1,4,12.|{c:04} * {c:d}Здоровье +250 в A1,4,12.
+194|{c:04} * {c:d}Spell Points +25 at E3,8,6.|{c:04} * {c:d}Очки магии +25 в E3,8,6.
+195|{c:04} * {c:d}Spell Points +250 at A4,3,3.|{c:04} * {c:d}Очки магии +250 в A4,3,3.
+196|{c:04} * {c:d}Armor Class +5 at F3,12,12.|{c:04} * {c:d}Класс защиты +5 в F3,12,12.
+197|{c:04} * {c:d}Armor Class +30 at A3,3,14.|{c:04} * {c:d}Класс защиты +30 в A3,3,14.
+198|{c:04} * {c:d}Level +5 at F3,0,1.|{c:04} * {c:d}Уровень +5 в F3,0,1.
+199|{c:04} * {c:d}Hit Points restored at Vertigo,14,17.|{c:04} * {c:d}Здоровье восстанавливается в Вертиго,14,17.
+200|{c:04} * {c:d}Level +10 at Nightshadow,7,7.|{c:04} * {c:d}Уровень +10 в Найтшэдоу,7,7.
+201|{c:04} * {c:d}Spell Points +100 at Rivercity,14,18.|{c:04} * {c:d}Очки магии +100 в Риверсити,14,18.
+202|{c:04} * {c:d}Hit Points +100 at Asp,8,3.|{c:04} * {c:d}Здоровье +100 в Эспе,8,3.
+203|{c:04} * {c:d}Might +50 at Winterkill,6,11.|{c:04} * {c:d}Сила +50 в Винтеркилле,6,11.
+204|{c:04} * {c:d}Turning the seasons by visiting the druids at B2,1,10 (Summer), C2,15,9 (Autumn), A3,6,1 (Winter), and E3,3,14(Spring) will remove all unnatural aging.|{c:04} * {c:d}Вы сможете вернуть себе свой реальный возраст, если смените времена года, посетив друидов в B2,1,10 (Лето), C2,15,9 (Осень), A3,6,1 (Зима), и E3,3,14 (Весна).
+205|{c:04} * {c:d}Sphinx dungeon, level 1,7,15 password "golux"|{c:04} * {c:d}Подземелье Сфинкса, уровень 1,7,15 пароль "голус"
+206|{c:04} * {c:d}Castle Basenji, level 2,9,15 password "there wolf"|{c:04} * {c:d}Замок Базенджи, уровень 2,9,15 пароль "волк лакает"
+207|{c:04} * {c:d}Witch's Tower, level 4,10,6 password "rosebud"|{c:04} * {c:d}Ведьмина башня, уровень 4,10,6 пароль "роза"
+208|{c:04} * {c:d}Vertigo|{c:04} * {c:d}Вертиго
+209|{c:04} * {c:d}Nightshadow|{c:04} * {c:d}Найтшэдоу
+210|{c:04} * {c:d}Rivercity|{c:04} * {c:d}Риверсити
+211|{c:04} * {c:d}Asp|{c:04} * {c:d}Эсп
+212|{c:04} * {c:d}Winterkill|{c:04} * {c:d}Винтеркилл
+213|{c:04} * {c:d}Warzone|{c:04} * {c:d}Арена
+214|{c:04} * {c:d}Mine 1, Mine 2, Mine 3, Mine 4, Mine 5|{c:04} * {c:d}Шахта 1, Шахта 2, Шахта 3, Шахта 4, Шахта 5
+215|{c:04} * {c:d}Deep Mine A----|{c:04} * {c:d}Глубокая шахта А----
+216|{c:04} * {c:d}Deep Mine -L---|{c:04} * {c:d}Глубокая шахта -л---
+217|{c:04} * {c:d}Deep Mine --P--|{c:04} * {c:d}Глубокая шахта --ь--
+218|{c:04} * {c:d}Deep Mine ---H-|{c:04} * {c:d}Глубокая шахта ---ф-
+219|{c:04} * {c:d}Deep Mine ----A|{c:04} * {c:d}Глубокая шахта ----а
+220|{c:04} * {c:d}Deep Mine Alpha|{c:04} * {c:d}Глубокая шахта Альфа
+221|{c:04} * {c:d}Deep Mine Theta|{c:04} * {c:d}Глубокая шахта Тета
+222|{c:04} * {c:d}Deep Mine Kappa|{c:04} * {c:d}Глубокая шахта Каппа
+223|{c:04} * {c:d}Deep Mine Omega|{c:04} * {c:d}Глубокая шахта Омега
+224|{c:04} * {c:d}Fire resistance +50 at E2,13,3.|{c:04} * {c:d}Защита от Огня +50 в E2,13,3.
+225|{c:04} * {c:d}Golem, Terror, and Yak it's told{a}have credits for King to hold.|{c:04} * {c:d}Големы, Як и Ужас, если верить молве{a}Монеты короля всегда имеют при себе.
+226|{c:04} * {c:d}The Clerics of Yak you must outwit{a}Taxman then must have his bit.|{c:04} * {c:d}Клириков Яка надуть вам лишь стоит{a}и тогда долг свой дворецкий исполнит.
+227|{c:04} * {c:d}Five for your keep is not too dear{a}since Taxman gives stone to fear.|{c:04} * {c:d}Пять лишь монет небольшая утрата{a}если дворецкий даст камень от страха.
+228|{c:04} * {c:d}Conquer terror and then you'll see{a}illusion holds Magic's key.|{c:04} * {c:d}К магии ключ за иллюзией спрятан{a}Страх одолейте - и он уже рядом.
+229|{c:04} * {c:d}Five more will raise your castle's walls{a}Taxman opens Golem's halls.|{c:04} * {c:d}На стен возведенье монет пять потратьте{a}и к големским залам проход получайте.
+230|{c:04} * {c:d}Highest magic holds solution{a}Darzog's dark convolution.|{c:04} * {c:d}В магии высшей ключ надо искать{a}если пред Дарзогом хочешь предстать.
+231|{c:04} * {c:d}A secret room in tower drear{a}holds the land's lost overseer.|{c:04} * {c:d}В тайной комнате башни, исполнен тревоги{a}Ждёт смотритель страны от героев подмоги.
+232|{c:04} * {c:d}Though evil wizard has been beat{a}you can't yet Lord Xeen defeat.|{c:04} * {c:d}Хоть и повержен волшебник был злой{a}С Ксином пока вам не выиграть бой.
+233|{c:04} * {c:d}Advisor will a dig permit{a}five coins more you must submit.|{c:04} * {c:d}К раскопкам советник даёт разрешенье{a}Пять звонких монет все развеют сомненья.
+234|{c:04} * {c:d}Taxman becomes a faithful vassal{a}Xeen's bane lies under castle.|{c:04} * {c:d}Дворецкий становится верным вассалом{a}Ксина погибель лежит под Ньюкаслом.
+235|{c:04} * {c:d}In clouds above island tower{a}waits Lord Xeen his final hour.|{c:04} * {c:d}Высоко в облаках, что над башней морскою{a}Лорд Ксин ждёт суда от рук храбрых героев.
+236|{c:04} * {c:d}Only the sword Xeen's life can take{a}All his plans of war unmake.|{c:04} * {c:d}Меч лишь один Ксина может сразить{a}планы войны все в ничто обратить.
+237|{c:04} * {c:d}Armor Class +20 at Newcastle level 1,9,14.|{c:04} * {c:d}Класс защиты +20 в Ньюкасле, уровень 1,9,14.
+238|{c:04} * {c:d}Newcastle, level 1,12,14 password "laboratory"|{c:04} * {c:d}Ньюкасл, уровень 1,12,14 пароль "лаборатория"
+239|{c:04} * {c:d}Newcastle, level 1 "la"|{c:04} * {c:d}Ньюкасл, уровень 1 "ла"
+240|{c:04} * {c:d}Newcastle, level 1 "bo"|{c:04} * {c:d}Ньюкасл, уровень 1 "бо"
+241|{c:04} * {c:d}Newcastle, level 1 "ra"|{c:04} * {c:d}Ньюкасл, уровень 1 "ра"
+242|{c:04} * {c:d}Newcastle, level 1 "to"|{c:04} * {c:d}Ньюкасл, уровень 2 "то"
+243|{c:04} * {c:d}Newcastle, level 1 "ry"|{c:04} * {c:d}Ньюкасл, уровень 2 "рия"
+244|{c:04} * {c:d}My first is in giant but not in defiant.|{c:04} * {c:d}Моя первая в огне, но никак не в колдуне.
+245|{c:04} * {c:d}My second is in mole but not in mule.|{c:04} * {c:d}Моя вторая есть в горе, но не найдёшь её в игре.
+246|{c:04} * {c:d}My third is in lich but not in stitch.|{c:04} * {c:d}Моя третья есть в дилемме, но никак не в диадеме.
+247|{c:04} * {c:d}My fourth is in guard but not in Girard.|{c:04} * {c:d}Моя четвёртая в уме, но никак не в Грэхеме.
+248|{c:04} * {c:d}My fifth is in XEEN but not in Queen.|{c:04} * {c:d}Моя пятая есть в КСИНЕ, но уж точно не в камине.
+249|{c:04} * {c:d}Troll holes located at B4,8,12; B4 12,13; B4,11,6; C3,2,0; C4,7,5; C4,13,5; C4,14,11.|{c:04} * {c:d}Ямы троллей обнаружены на B4,8,12; B4 12,13; B4,11,6; C3,2,0; C4,7,5; C4,13,5; C4,14,11.
+250|{c:04} * {c:d}Troll holes located at D4,8,12; D4,14,5; E3,7,0; E4,6,8; E4,5,5; E4,13,6; C4,4,14.|{c:04} * {c:d}Ямы троллей обнаружены на D4,8,12; D4,14,5; E3,7,0; E4,6,8; E4,5,5; E4,13,6; C4,4,14.
+251|{c:04} * {c:d}Cliff Notes Lesson 1:{a}EEEIOIE|{c:04} * {c:d}Прописи Урок 1:{a}EEEIOIE
+252|{c:04} * {c:d}Cliff Notes Lesson 2:{a}EOAUAAUE|{c:04} * {c:d}Прописи Урок 2:{a}EOAUAAUE
+253|{c:04} * {c:d}Cliff Notes Lesson 3:{a}EEEOEAOUEIEEEOEE|{c:04} * {c:d}Прописи Урок 3:{a}EEEOEAOUEIEEEOEE
+254|{c:04} * {c:d}Cliff Notes Lesson 4:{a}OEOOEIEOOOAEI|{c:04} * {c:d}Прописи Урок 4:{a}OEOOEIEOOOAEI
+255|{c:04} * {c:d}Cliff Notes Lesson 5:{a}OOOAIOEIEOU|{c:04} * {c:d}Прописи Урок 5:{a}OOOAIOEIEOU
+256|{c:04} * {c:d}Cliff Notes Lesson 6:{a}AOOAIOEAEOOAE|{c:04} * {c:d}Прописи Урок 6:{a}AOOAIOEAEOOAE
+257|{c:04} * {c:d}Cliff Notes Lesson 7:{a}IIEEEOEEEOUIE|{c:04} * {c:d}Прописи Урок 7:{a}IIEEEOEEEOUIE
+258|{c:04} * {c:d}Hit Points +2500 at A1,2,13|{c:04} * {c:d}Здоровье +2500 на A1,2,13
+259|{c:04} * {c:d}Elemental Resistance +100 at B1,14,13|{c:04} * {c:d}Сопротивление стихиям +100 на B1,14,13
+260|{c:04} * {c:d}+3 levels at A3,8,14|{c:04} * {c:d}+3 уровня на A3,8,14
+261|{c:04} * {c:d}Hit Points +50 at A3,3,3|{c:04} * {c:d}Здоровье +50 на A3,3,3
+262|{c:04} * {c:d}Spell Points +50 at A3,2,10|{c:04} * {c:d}Очки магии +50 на A3,2,10
+263|{c:04} * {c:d}Might +25 at A4,9,11|{c:04} * {c:d}Сила +25 на A4,9,11
+264|{c:04} * {c:d}Armor Class +10 at A4,3,10|{c:04} * {c:d}Класс защиты +10 на A4,3,10
+265|{c:04} * {c:d}Luck +100 at B4,2,2|{c:04} * {c:d}Удача +100 на B4,2,2
+266|{c:04} * {c:d}+15 Levels at C2,1,8|{c:04} * {c:d}+15 уровней на C2,1,8
+267|{c:04} * {c:d}Might +100 at D1,6,13|{c:04} * {c:d}Сила +100 на D1,6,13
+268|{c:04} * {c:d}+10 all statistics at D4,12,4|{c:04} * {c:d}+10 ко всем характеристикам на D4,12,4
+269|{c:04} * {c:d}+50 Elemental Resistance at D4,2,4|{c:04} * {c:d}+50 Сопротивление стихиям на D4,2,4
+270|{c:04} * {c:d}+50 Magic Resistance at F2,8,5|{c:04} * {c:d}+50 Защита от Магии на F2,8,5
+271|{c:04} * {c:d}Armor Class +50 at F4,14,3|{c:04} * {c:d}Класс защиты +50 на F4,14,3
+272|{c:04} * {c:d}Remove magical aging at F4,6,7|{c:04} * {c:d}Снять магическое старение на F4,6,7
+273|{c:04} * {c:d}A plaque at the base of the statue reads:  If Pharoah's realm should take a fall{a}The Dragon must put forth a call{a}Mystic orb to the wind is cast{a}Seeks the hand of heroes last{a}Four parts castle at five per stage{a}A score of disks to help the Mage|{c:04} * {c:d}Надпись у подножья статуи гласит: Как только власть Фараона падет{a}Тогда Дракон за собой позовет{a}Волшебная сфера ветер пошлет{a}Что руку последних героев найдет{a}Четыре части у замка, в каждой по пять {a}Магу помочь, двадцать дисков достать
+274|{c:04} * {c:d}A plaque at the base of the statue reads:  A Golden bird will sorrow ease{a}Sweet song will Knight's lost soul appease{a}Help the rider to soothe the beast{a}Gain a flight when expected least{a}The symbol of royal power{a}Frees the Queen from evil tower|{c:04} * {c:d}Надпись у подножья статуи гласит: Златая птица пропоет и в сердце радость вдруг воскреснет{a}Мятущуюся душу Рыцаря утешит чудной песнью{a}Ты всаднику зверя смирить помоги{a}И наконец то взлети{a}Символ монаршей власти{a}Вызволит королеву из напасти
+275|{c:04} * {c:d}A plaque at the base of the statue reads:  Dragon's orb the world shall roam{a}Yet must again return to home{a}Pharoah's magic back in its place{a}Helps to free the visitor from space{a}Code's the key to thinking machines{a}Starman knows the truth about Xeen|{c:04} * {c:d}Надпись у подножья статуи гласит: И сфера драконья по свету помчится{a}Чтобы в итоге назад возвратиться{a}Мощь Фараона возродится вновь{a}Чтоб гостя из космоса спасти от оков{a}В коде к мыслящей машине{a}Звездный странник откроет всю правду о Ксине
+276|{c:04} * {c:d}A plaque at the base of the statue reads:  Dragon once more will get you by{a}Owns key to city of the sky{a}Starman needs to hide in a box{a}Alamar's defenses outfox{a}Face to face in Alamar's lair{a}Out the box springs the land's last prayer|{c:04} * {c:d}Надпись у подножья статуи гласит: Дракон вновь до тебя доберется{a}За ключ к небесному городу биться придется{a}Звездный странник в короб должен влезть{a}Чтоб силу Аламара одолеть{a}Лицом к лицу в логове врага{a}Из короба земли последняя мольба
+277|{c:04} * {c:d}Dimitri's combo:  64,52,31|{c:04} * {c:d}Комбинация Димитрия:  64,52,31
+278|{c:04} * {c:d}Queen Kalindra's combo:  3 31 62|{c:04} * {c:d}Комбинация королевы Калиндры:  3 31 62
+279|{c:04} * {c:d}Leafpoint's treasure:  E4 at 0,13|{c:04} * {c:d}Сокровище Остролиста:  E4 на 0,13
+280|{c:04} * {c:d}Thieves' Ledger:  {a}One (1) Griffin Statuette, sold to Sandro of Necropolis for 350,000 gold.{a}One (1) Dragon Statuette, sold to Head Witch of Lakeside for 225,000 gold.{a}One (1) Pegasus Statuette, sold to Head Heretical Cleric for 130,000 gold.{a}One (1) Jewel of Ages, sold to Mages of the Great Eastern Tower for 400,000 gold.|{c:04} * {c:d}Воровской гросбух:  {a}Одна штука (1) Статуэтка грифона, продана Сандро из Некрополиса за 350,000 золотых.{a} Одна штука (1) Статуэтка дракона, продана главе ведьм Лэйксайд за 225,000 золотых.{a} Одна штука (1) Статуэтка пегаса, продана главе еретических клириков за 130,000 золотых.{a} Одна штука (1) Алмаз вечности, продана магам Большой восточной башни за 400,000 золотых.
+281|{c:04} * {c:d}+1000 Spell Points E1 at 2,10|{c:04} * {c:d}+1000 очков магии E1 на 2,10
+282|{c:04} * {c:d}+500 Hit Points F1 at 13,8|{c:04} * {c:d}+500 здоровья F1 на 13,8
+283|{c:04} * {c:d}Alamar's Castle: FEWAEEFFWAEFAWEEWWEFAW|{c:04} * {c:d}Замок Аламара: FEWAEEFFWAEFAWEEWWEFAW
+284|{c:04} * {c:d}Alamar's Castle: Nine is the Time|{c:04} * {c:d}Замок Аламара: девять часов
+285|{c:04} * {c:d}Dragon runes: IN|{c:04} * {c:d}Руны Дракона: IN
+286|{c:04} * {c:d}Dragon runes: FI|{c:04} * {c:d}Руны Дракона: FI
+287|{c:04} * {c:d}Dragon runes: NI|{c:04} * {c:d}Руны Дракона: NI
+288|{c:04} * {c:d}Dragon runes: TY|{c:04} * {c:d}Руны Дракона: TY
+289|{c:04} * {c:d}Plaque Level 1: NWDA---Y-HNA|{c:04} * {c:d}Табличка Уровень 1: NWDA---Y-HNA
+290|{c:04} * {c:d}Plaque Level 1: EO-NYFPIMTDG|{c:04} * {c:d}Табличка Уровень 1: EO-NYFPIMTDG
+291|{c:04} * {c:d}Plaque Level 1: WRTKOOLNI--I|{c:04} * {c:d}Табличка Уровень 1: WRTKOOLNI--I
+292|{c:04} * {c:d}Plaque Level 1: -LHSURAGGAMC{a}|{c:04} * {c:d}Табличка Уровень 1: -LHSURAGGAMC{a}
+293|{c:04} * {c:d}Plaque Level 2: SNTS-CKDEM|{c:04} * {c:d}Табличка Уровень 2: SNTS-CKDEM
+294|{c:04} * {c:d}Plaque Level 2: ODHAOO--L!|{c:04} * {c:d}Табличка Уровень 2: ODHAOO--L!
+295|{c:04} * {c:d}Plaque Level 2: -SEGFRAST-|{c:04} * {c:d}Табличка Уровень 2: -SEGFRAST-
+296|{c:04} * {c:d}Plaque Level 2: E--A-ANHE-{a}|{c:04} * {c:d}Табличка Уровень 2: E--A-ANHE-{a}
+297|{c:04} * {c:d}Plaque Level 3: 1-ITN-HNA-A|{c:04} * {c:d}Табличка Уровень 3: 1-ITN-HNA-A
+298|{c:04} * {c:d}Plaque Level 3: 9BNHEMTDGS!|{c:04} * {c:d}Табличка Уровень 3: 9BNHEMTDGS!
+299|{c:04} * {c:d}Plaque Level 3: 9ESEXI--IA-|{c:04} * {c:d}Табличка Уровень 3: 9ESEXI--IA-
+300|{c:04} * {c:d}Plaque Level 3: 4G--TGAMCG-{a}|{c:04} * {c:d}Табличка Уровень 3: 4G--TGAMCG-{a}
+301|{c:04} * {c:d}Plaque Level 4: T-MEOE-FENN-TEAO|{c:04} * {c:d}Табличка Уровень 4: T-MEOE-FENN-TEAO
+302|{c:04} * {c:d}Plaque Level 4: Y"PRNV4--G-DHE-N|{c:04} * {c:d}Табличка Уровень 4: Y"PRNV4--G-DHE-N
+303|{c:04} * {c:d}Plaque Level 4: PCU"-E-TDEOE--S!|{c:04} * {c:d}Табличка Уровень 4: PCU"-E-TDEOE--S!
+304|{c:04} * {c:d}Plaque Level 4: EOT-LLOHUOFASYO-{a}|{c:04} * {c:d}Табличка Уровень 4: EOT-LLOHUOFASYO-{a}
+305|====|====
+306||
+307|Rid Vertigo of the plague of pests and report back to Mayor Gunther (Vertigo,14,5).{a}|Избавьте Вертиго от нашествия паразитов и доложите об этом мэру Гюнтеру (Вертиго,14,5).{a}
+308|Slay the king of the Mad Dwarf Clan and report back to Mayor Gunther (Vertigo,14,5).{a}|Убейте короля клана Безумных дворфов и доложите об этом мэру Гюнтеру (Вертиго,14,5).{a}
+309|Gather Phirna roots for Myra the Herbalist (F3,7,10) for use in healing potions.{a}|Принесите корень фирны травнице Майре (F3,9,11) для приготовления противоядий.{a}
+310|Free Celia from the clutches of the zombies of the forest and return her to Derek (F3,4,5).{a}|Вырвите Селию из лап зомби, что обитают в лесу, и сопроводите её к Дереку (F3,4,5).{a}
+311|Retreive the Alacorn of Falista from the Witch's Tower and return it to Valia (F4,9,3).{a}|Заберите рог Фалисты из Ведьминой башни и верните его Валии (F4,9,3).{a}
+312|Find Orothin's bone whistle and return it to him (F3,9,6) .{a}|Найдите и верните Орофину (F3,9,6) его костяной свисток .{a}
+313|Find Ligono's skull and return it to him (D3,12,8) so he may rest in peace.{a}|Найдите и верните Лигоно (D3,12,8) его череп, чтобы он мог наконец упокоиться с миром.{a}
+314|Get Barok's pendant from the sorceress' of Rivercity and return it to Barok (Rivercity,25,20).{a}|Заберите магический кулон у волшебниц Риверсити и верните его Бароку (Риверсити,25,20).{a}
+315|Get Princess Roxanne's tiara from the Robbers of Rivercity and return it to Princess Roxanne (Castle Burlock,level 3,2,11){a}|Отберите у грабителей Риверсити диадему принцессы Роксаны и верните её законной владелице (замок Барлок, уровень 3,2,11).{a}
+316|Return the Scarab of Imaging to Caralawna (C2,11,6).{a}|Верните Карлавн (С2,10,6) её амулет-скарабей Воплощения.{a}
+317|Return the Crystals of Piesoelectricity to Falagar(C2,9,11).{a}|Верните Фалагару (C2,8,11) его кристаллы Пьезоэлектричества.{a}
+318|Steal the Elixir of Restoration from the Yak Temple and give it to Mirabeth (D4,12,3).{a}|Выкрадите эликсир Восстановления из храма Яка и принесите его Мирабет (D4,12,3).{a}
+319|Find the Faery Wand and return it to Danulf (C3,14,5).{a}|Найдите Жезл фей и верните его Данульфу (C3,14,15).{a}
+320|Find the Holy Book of Elvenkind and return it to Tito (C3,8,4).{a}|Найдите Священную Книгу Эльфов и верните её Тито (C3,3,8).{a}
+321|Destroy the Lair of the Trolls and return to Thickbark (B3,6,3) for your reward.{a}|Уничтожьте логово троллей и возвращайтесь к Толстокору (B3,6,3) за наградой.{a}
+322|Destroy the Lair of the Ogres and return to Captain Nystor (C2,9,1) for your reward.{a}|Уничтожьте логово огров и возвращайтесь за наградой к капитану Найстору (C2,9,1).{a}
+323|Reclaim Kai Wu's Pagoda from the ninja clan (A3,15,6).{a}|Очистите пагоду Кая Ву (A3,15,12) от клана ниндзя.{a}
+324|Slay the monsters of the lake and return to Medin (C3,15,10).{a}|Убейте морских чудовищ и возвращайтесь к Медину (C3,12,13).{a}
+325|Save Winterkill from it's curse and return to Randon (Winterkill,8,13).{a}|Избавьте Винтеркилл от насланного на него проклятия и возвращайтесь к Рэндону (Винтеркилл,8,13).{a}
+326|Destroy the lair of the Cyclopses and return to Glom (A3,0,10) for your reward.|Разрушьте логово циклопов и возвращайтесь к Глому (A3,10,0) за своим вознаграждением.{a}
+327|Find the Everhot Lava Rock and give it to Halon (B3,10,7).{a}|Найдите Вечно горячий кусок пемзы и принесите его Халону (B3,9,6).{a}
+328|Retrieve the Scroll of Insight from Castle Basenji and return it to Arie (A1,11,5).{a}|Заберите Cвиток Мудрости из замка Базенджи и верните его Арию (A1,11,5).{a}
+329|Free Crodo from the clutches of the evil wizard Darzog and return to Artemus (Castle Burlock,1,4).|Освободите Кродо из башни злого чародея Дарзога и возвращайтесь к Артемусу (замок Барлок,1,4).{a}
+330|Climb Darzog's Tower, gain entrance to Castle Xeen, slay Lord Xeen, and save the world.{a}|Взберитесь на башню Дарзога, получите пропуск в Замок Ксин, сразите Лорда Ксина и спасите мир.{a}
+331|Find the 6th mirror and return to King Burlock (Castle Burlock,8,1).{a}|Найдите 6-е зеркало и верните его королю Барлоку (замок Барлок,8,1).{a}
+332|Take the Last Flower of Summer to the Autumn Druid so that Autumn may begin.{a}|Принесите друиду Осени Последний цветок лета, чтобы осень смогла вступить в свои права.{a}
+333|Take the Last Fallen leaf of Autumn to the Winter Druid so that Winter may begin.{a}|Принесите друиду Зимы Последний опавший лист осени, чтобы зима смогла вступить в свои права.{a}
+334|Take the Last Snowflake of Winter to the Spring Druid so that Spring may begin.{a}|Принесите друиду Весны Последнюю снежинку зимы, чтобы весна смогла вступить в свои права.{a}
+335|Take the Last Raindrop of Spring to the Summer Druid so that Summer may begin.{a}|Принесите друиду Лета Последнюю дождевую капельку весны, чтобы лето смогло вступить в свои права.{a}
+336||
+337||
+338||
+339||
+340|====|====
+341||
+342|Inconceivable, the Royal Pyramid besieged|Непостижимо, Королевская Пирамида осаждена!
+343|With the prophecy almost fulfilled, the arrival of Alamar has placed my mission and the fate of Xeen in great danger.  I cannot hold out much longer--I must contact the Queen!|С почти исполненным пророчеством, прибытие Аламара поставило мою миссию и судьбу Ксина в огромную опасность. Долго мне не продержаться--я должен связаться с Королевой!
+344|How did YOU get a key?  All right, go in.|Откуда у ВАС этот ключ? Ладно, входите.
+345|You need a key, Orc breath!|Вам нужен ключ, отрыжки орка!
+346|What are you lookin' at?  You don't even have the key!|На что это вы уставились? У вас даже ключа нет!
+347|What are you lookin' at?  Go on in!| На что это вы уставились? Заходите!
+348|Seek help little one| Ищи помощи, малыш.
+349|Got a Pass?  O.K. Go ahead!|Есть пропуск?  Хорошо, проходите!
+350|Got a Pass?  Back Off!|Есть пропуск?  Отойдите!
+351|Queen Kalindra?|Королева Калиндра?
+352|My Pharoah, I'm a prisoner, all is lost!|Мой Фараон, я в плену, всё пропало!
+353|Then what has become of the cube?|Тогда что же стало с кубом?
+354|I have it now, Pharoah!|Теперь он у меня, Фараон!
+355|Alamar, you misguided mechanism, you'll destroy us all.|Аламар, ты заблудший механизм, ты погубишь нас всех.
+356|My monstrous friends, are you with me?|Мои чудовищные друзья, вы со мной?
+357|We serve Alamar!|Мы служим Аламару!
+358|Traitors!|Предатели!
+359|My friend Ellinger, you must send help!|Мой друг Эллинджер, ты должен прислать помощь!
+360|But Pharoah, I too am trapped in my Tower.| Но, Фараон, я тоже заперт в своей башне.
+361|Then I will send out the Orb.   The destiny of Xeen is no longer in our hands.|Тогда я пошлю сферу.   Судьба Ксина больше не в наших руках.
+362|The destiny of Xeen is no longer in our hands.|Судьба Ксина больше не в наших руках.
+363|Come to me!|Подойдите ко мне!
+364|Corak?|Корак?
+365|Yes, it is I|Да, это я.
+366|You have nowhere to run Sheltem!|Тебе некуда бежать, Шелтем!
+367|Nor do you!|Тебе тоже!
+368|I'm ready for you this time.|На этот раз я готов к встрече.
+369|This fight will be your last.|Этот бой будет для тебя последним.
+370|I cannot fail...|Я не могу проиграть...
+371|Admit your defeat, Corak!|Признай своё поражение, Корак!
+372|I do.  Initiate self-destruct Code 0 - 0 - 1.|Признаю. Активирую код самоуничтожения 0 - 0 - 1.
+373|What! No, Nooo...|Что! Нет, Нееет...
+374|====|====
+375||
+376|Caster sprays a fine acid mist on all the monsters in front of him, inflicting 15 points of Poison damage on each monster.|Маг распыляет на ближайших монстров густой кислотный туман, нанося 15 очков урона Ядом каждому из монстров.
+377|Pulls all sleeping party members from their slumber, cancelling the SLEEP condition.|Будит весь отряд, выводя их из состояния СНА.
+378|Hypnotizes a group of monsters into stillness until they overcome the spell.|Вводит группу монстров в состояние оцепенения до тех пор, пока они не смогут преодолеть его.
+379|Improves the armor class of a character by 1 per level of the caster.|Увеличивает класс брони персонажа на 1 очко за каждый уровень заклинателя.
+380|Causes the two gargoyle heads on the screen to animate and give advice for certain yes/no decisions, usually chests.|Оживляет головы двух горгулий, позволяя им давать советы по поводу каждого выбора типа да/нет; обычно это касается сундуков.
+381|A cone of absolute zero springs from the caster's hand momentarily, inflicting 2-4 points of Cold damage per level of the caster on all visible monsters.|Выпускает из руки заклинателя чрезвычайно холодное поле, поражающее всех видимых монстров, нанося каждому из них 2-4 очка урона Холодом на каждый уровень заклинателя.
+382|Creates one unit of food for each living party member.|Создаёт по одной единице пищи для каждого члена отряда.
+383|Removes the DISEASED condition from a character|Вылечивает персонажа от БОЛЕЗНИ.
+384|Removes the PARALYZED condition from a character.|Выводит персонажа из состояния ПАРАЛИЧА.
+385|Removes the POISONED condition from a character.|Вылечивает персонажа от ОТРАВЛЕНИЯ.
+386|Magically cures one character of 15 points of damage.|Волшебным образом исцеляет у персонажа 15 единиц здоровья.
+387|The Dancing Sword spell creates hundreds of razor sharp blades that strip the flesh from your foes.  Dancing Sword inflicts 6 to 14 points of Physical damage per level of the caster.|Как и Шрапнель, это заклинание выстреливает во врагов сотней острых как бритва лезвий, ранящих их плоть и наносящих 6-14 очков Физ. урона на каждый уровень заклинателя.
+388|Simultaneously casts Light, Protection from all elements, Heroism, Holy Bonus, and Bless for the bargain basement price of 75 spell points.|Одновременно накладывает заклинания "Свет", "Защита от стихий", "Мужество", "Святой дар" и "Благословение" по бросовой цене в 75 очков магии.
+389|This spell is a super saver plan that simultaneously casts Light, Levitate, Wizard Eye, Clairvoyance, and Power shield on all party members.|Это заклинание - отличный способ себя обезопасить. Оно одновременно накладывает заклинания "Свет", "Левитация", "Волшебный глаз", "Ясновидение" и "Силовой щит" на весь отряд.
+390|Covers a group of monsters with biting, stinging, burrowing insects, inflicting 25 points of Physical damage to each monster.|Насылает на группу монстров рой из жалящихся и кусающихся насекомых, наносящих каждому из монстров 25 очков Физического урона.
+391|Shows the location of all the monsters near the party.|Показывает расположение врагов, находящихся рядом с отрядом.
+392|Heals the entire party of all damage short of ERADICATION.|Исцеляет отряд от всех ран и недугов, за исключением состояния полного УНИЧТОЖЕНИЯ.
+393|Puts a dragon to sleep, much the way a sleep spell puts humans to sleep.|Усыпляет драконов так же, как заклинание "Усыпление" делает это с людьми.
+394|Pounds all the monsters in front of the party with a storm of magical energy, inflicting 150 points of a random damage type to each monster.|Насылает на ближайших монстров бурю из беснующихся стихий, наносящую каждому монстру 150 очков урона случайного типа.
+395|Bestows magical power to an item that has none.  The more powerful the spell caster, the better the chance for a powerful item.|Наделяет обыкновенный предмет волшебными свойствами. Чем искуснее заклинатель, тем больше шанс наложить могучие чары.
+396|A bolt of pure energy is fired from the caster's clenched fist, inflicting 2 to 6 points of Energy damage per level of the caster.|Выпускает из сжатого кулака заклинателя струю чистой энергии, наносящую 2-6 очков урона Энергией на каждый уровень заклинателя/
+397|Moves the party one square foward, regardless of barriers.  This spell may succeed in areas where the teleport spell fails.|Смещает отряд на одну клетку вперёд, невзирая на преграды. Может пригодиться там, где не срабатывает заклинание "Телепорт".
+398|Reduces the temperature of the air around a group of monsters to absolute zero for a moment, inflicting 40 points of Cold damage on each monster.|На мгновение опускает температуру воздуха вокруг группы монстров до абсолютного нуля, нанося каждому из них 40 очков урона Холодом.
+399|Caster fires a jet of flame at one monster, inflicting 100 points of Fire damage.|Заклинатель направляет на отдельного монстра струю огня, нанося 100 очков урона Огнём.
+400|Bloodlessly slays the opponents the caster points to.|Мгновенно и бескровно убивает врага, на которого указал заклинатель.
+401|Sets off a fiery explosion within a group of monsters, inflicting 3 to 7 points of Fire damage per level of the caster.|Приводит к огненному взрыву среди ближайших монстров, наносящему каждому из них 3-7 очков урона Огнём на каждый уровень заклинателя.
+402|Magically cures one character of 6 points of damage|Волшебным образом исцеляет лёгкие ранения и царапины, восстанавливая 6 единиц здоровья пострадавшему члену отряда.
+403|Deals a light blow to a monster, inflicting 6 points of Physical damage.|Наносит слабый удар монстру, причиняя 6 очков Физического урона.
+404|Draws the body heat out of a monster, inflicting 35 points of Cold damage.|Высасывает тепло из тела монстра, нанося 35 очков урона Холодом.
+405|Golem Stopper deprives a golem of the magic that animates it, inflicting 100 points of damage.|Это заклинание разрушает магию, которая оживила голема, нанося этим 100 очков урона.
+406|Increases the temporary level of a character by 1 per level of the caster|Временно увеличивает уровень персонажа на 1 на каждый уровень заклинателя.
+407|Increases the damage inflicted by a character when fighting by 1 point per level of the caster.|Увеличивает наносимый персонажем урон в бою на 1 очко на каждый уровень заклинателя.
+408|Completely removes the animating magic of the Undead, returning them to the dust from whence they came.|Полностью рассеивает магию, оживившую мертвеца, превращая его обратно в прах, из которого он восстал.
+409|Like Beast Master, this spell hypnotizes a group of monsters into stillness until they overcome the spell, except that it works on monsters other than animals.|"Гипноз", подобно заклинанию "Повелитель зверей", обездвиживает группу врагов до тех пор, пока они не очнутся, но действует только на тех монстров, которые не относятся к животным.
+410|Reveals the condition of the monsters the party is fighting.|Показывает состояние монстров, с которыми сражается отряд.
+411|Implosion concentrates local gravity inside the targeted monster, annihilating all but the most powerful opponents.  Implosion inflicts 1000 points of Energy damage.|Имплозия вызывает резкое увеличение давления внешней среды на отдельного монстра, уничтожая всех, кроме самых могучих противников. Наносит 1000 очков урона Энергией.
+412|Shoots a stream of fire at one monster, inflicting 250 points of Fire damage.|Направляет поток огня на отдельного монстра, нанося ему 250 очков урона Огнём.
+413|Engulfs one group of monsters in magical fire, inflicting 250 points of Fire damage on one group.|Волшебное пламя охватывает группу монстров, нанося каждому из них 250 очков урона Огнём.
+414|Coats a group of monsters with a poison specially designed to kill insects.|Покрывает группу монстров слоем яда, предназначенного для уничтожения насекомых.
+415|Converts an item into an amount of gold pieces equal to the value of the item (merchant skill not included).|Превращает предмет в количество золота, равное его стоимости (навык купца не учитывается).
+416|Puts enough strength into the legs of the party to jump over one square, provided there are no walls of matter or magic.  This spell cannot be used in combat.|Придаёт членам отряда достаточно сил, чтобы прыгнуть вперёд через одну клетку, если при этом у них на пути нет стены или магического барьера. Заклинанием нельзя пользоваться во время битвы.
+417|Imparts weightlessness to the party members, preventing them from falling into pit traps, quagmires, holes in clouds, etc.|Делает членов отряда невесомыми, не давая им провалиться сквозь облака, а также попасть в трясину, волчьи ямы и т.п.
+418|Fills a dungeon with a steady, soft light until the party rests.|Наполняет подземелье мягким ровным светом до тех пор, пока члены отряда не лягут отдыхать.
+419|Lightning flashes from the caster's hand, electrocuting monsters for 4 to 6 points of damage per level of the caster.|Молния разряжается из руки заклинателя в группу монстров, нанося 4-6 очков урона на каждый уровень заклинателя.
+420|This spell allows you to magically return to a place you have already been.  Cast the spell once to set the beacon, and again when you wish to return.  Each party member may have their own beacon.|Позволяет перенестись в то место, где вы уже бывали. Сначала наложите заклинание, а затем повторно используйте его, когда захотите вернуться. Каждый персонаж может иметь свой личный маяк.
+421|Fires a magical bolt at one opponent, inflicting 8 points of Magical damage.|Выстреливает волшебной стрелой в одного противника, нанося 8 очков Магического урона.
+422|Increases the weight of your opponents, effectively removing half of their hit points.|Увеличивает вес ваших противников, отнимая таким образом половину их здоровья.
+423|Megavolts is an improved version of Lightning Bolt, inflicting 150 points of Electrical damage on a group of monsters.|"Мегавольты" - это улучшенная версия заклинания "Удар молнии", наносящая группе монстров 150 очков урона Электричеством.
+424|Inflicts 30 points of Energy damage to each monster in sight and cures each party member of 30 points of damage.|Наносит 30 очков урона Энергией всем монстрам в поле зрения, а также восстанавливает каждому члену отряда 30 единиц здоровья.
+425|Heals a character of 25 points of damage.|Восстанавливает у персонажа 25 единиц здоровья.
+426|Stimulates the Pain centers of your opponent's brains, inflicting 8 points of physical damage.|Возбуждает у врагов области мозга, ответственные за боль, нанося 8 очков Физического урона.
+427|Fires 6 poison arrows into each square in front of the party.  The arrows do 10 points of Poison damage each.|Выпускает по 6 ядовитых стрел в каждую клетку перед отрядом. Каждая стрела наносит 10 очков урона Ядом.
+428|Heals a character of 2-12 points of damage per level of the caster.|Восстанавливает у персонажа 2-12 единиц здоровья на каждый уровень заклинателя.
+429|Reduces the damage inflicted on a party member by a number equal to the level of the caster.|Снижает урон, наносимый члену отряда, на число, равное уровню заклинателя.
+430|Mysterious light springs from the caster's palm, inflicting 80 points of a random damage type depending on which ray hits a monster.  The damage type is unpredictable.|Из ладони заклинателя исходит таинственный свет, наносящий 80 очков урона случайного типа (у каждого луча свой тип).
+431|Reduces the damage the party receives from the elements.  The caster can choose which element this applies to when the spell is cast.|Снижает урон, наносимый членам отряда от стихий. Заклинатель может выбирать стихию, от которой будет защищать заклинание.
+432|Removes the DEAD condition from a character.|Оживляет УМЕРШЕГО персонажа.
+433|Restores 1 to 6 charges to an item that has at least one charge remaining.  There is a slight risk the spell will destroy the item.|Восстанавливает от 1 до 6 зарядов у предмета, у которого остался хотя бы один заряд. Существует небольшая вероятность того, что заклинание уничтожит предмет.
+434|Removes the ERADICATED condition from a character.|Воскрешает УНИЧТОЖЕННОГО персонажа.
+435|Removes the WEAK condition from a character|Снимает УСТАЛОСТЬ у персонажа.
+436|Sprays a group of monsters with sharp metal fragments, inflicting 2 points of Physical damage per level of the caster.|Выстреливает в группу монстров зарядом шрапнели, нанося 2 очка Физического урона на каждый уровень заклинателя.
+437|Puts a group of monsters to sleep until they overcome the spell or are damaged.|Усыпляет группу монстров до тех пор, пока их не ранят или не закончится действие заклинания.
+438|Envelopes the monsters in an electrically charged gas cloud, inflicting 2 points of Electrical damage per level of the caster.|Окружает монстров облаком насыщенного электричеством газа, наносящего 2 очка урона Энергией на каждый уровень заклинателя.
+439|Includes all monsters in front of the party in a massive explosion, inflicting 500 points of Physical damage on each monster.|Приводит к мощному взрыву среди монстров, находящихся перед отрядом, нанося 500 очков Физического урона каждому из них.
+440|Removes the STONED condition from a character.|Снимает ОКАМЕНЕНИЕ с выбранного персонажа.
+441|Shines the intensified light of the sun into all monsters in front of the caster, inflicting 200 points of Energy damage on each monster.|Мощный солнечный свет освещает группу монстров, нанося каждому из них 200 очков урона Энергией.
+442|Hides the party from the monsters in unsafe places, permitting them to rest without incident.|В небезопасных местах прячет отряд от врагов, давая ему возможность спокойно передохнуть.
+443|Slows the effect of disease on a character, but does not remove the DISEASED condition.|Замедляет процесс БОЛЕЗНИ у персонажа, не излечивая, однако, сам недуг.
+444|Slows the effect of poison on a character, but does not remove the POISONED condition.|Замедляет воздействие яда на персонажа, не снимая, однако, само ОТРАВЛЕНИЕ.
+445|Sends the party up to 9 squares in the direction the party is facing, regardless of obstacles.|Перемещает отряд вперёд на расстояние от 1 до 9 клеток, невзирая на препятствия, лежащие на его пути.
+446|Warps time, giving the party just enough time to run away from a combat.|Искажает ход времени, давая отряду возможность бежать с поля боя.
+447|Teleports the party to the town of your choice.|Переносит отряд в любой город на выбор.
+448|Surrounds a group of monsters with noxious gasses, inflicting 10 points of Poison damage.|Окутывает монстров облаком вредных газов, нанося 10 очков урона Ядом.
+449|Weakens the evil magic that animates the Undead, inflicting 25 points of damage.|Ослабляет магию, оживившую мертвецов, нанося 25 очков урона.
+450|Allows the party to walk over both shallow and deep water.|Позволяет членам отряда идти как по прибрежным водам, так и по глубоководью.
+451|Wizard Eye gives the party a bird's-eye view of their surroundings.  The view will appear in the upper right corner of the game screen.|"Волшебный глаз" даёт отряду возможность обозревать окрестности с высоты птичьего полёта. Изображение появляется в правом верхнем углу экрана.
+452|{3:c}Guild Info{2}{3:l}{a}{a}Town 1's Guild was established in the year 209, shortly after the war with the elementals.  Our prices are the lowest in all of Terra.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Старейшая городская гильдия, была основана в 209 году, вскоре после битвы с элементалами. У нас самые низкие цены на Терре. {1}
+453|{3:c}Guild Info{2}{3:l}{a}{a}Albatross Guild.  Founded in 275 by Ramian Fig upon his return from the first expedition to Mutant Mountains.  Quality is our trademark.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Гильдия Альбатроса. Основана в 275 году Рамианом Фигом после его возвращения из первой экспедиции в горы Мутантов. Качество — наша визитная карточка.{1}
+454|{3:c}Guild Info{2}{3:l}{a}{a}Falcon's Guild first opened its doors in 282, when the Gargoyles were driven from Thorn Blossom Orchard.  Shop and compare.  You'll come back.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Гильдия Сокола впервые открыла свои двери в 282 году, когда горгулий изгнали из Сада цветущего терновника. Купите и сравните. Вы придете снова. {1}
+455|{3:c}Guild Info{2}{3:l}{a}{a}Buzzard's Guild is among the finest in the land, with a an eclectic mix of your favorite healing, travel, and combat incantations.  Enjoy the selection.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Гильдия Канюка — одна из самых престижных. Широкий выбор ваших любимых лечебных, путеводных и боевых заклинаний. Наслаждайтесь.{1}
+456|{3:c}Guild Info{2}{3:l}{a}{a}The origins of Eagle's Guild remain forever shrouded in mystery.  But it is no mystery you will find premium spells at a premium price.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Происхождение гильдии Орла навсегда окутано завесой тайны. Но не cекрет, что у них хорошие заклинания по хорошим ценам.{1}
+457|{3:c}Guild Info{2}{3:l}{a}{a}The origins of Eagle's Guild remain forever shrouded in mystery.  But it is no mystery you will find premium spells at a premium price.{1}|{3:c}О гильдии{2}{3:l}{a}{a}Происхождение гильдии Орла навсегда окутано завесой тайны. Но не cекрет, что у них хорошие заклинания по хорошим ценам.{1}
+458|====|====
+459||
+460|Monga Melons can only be found on the south side of the river.|Монгу Мелэнс можно отыскать только на южной стороне реки.
+461|One of the sewer exits under this town leads to the south side of the river.|Один из канализационных выходов под городом ведет к южной стороне реки.
+462|The Gremlin King is a coward and will give you anything you want if you defeat him in battle.|Король Гремлин - трус и отдаст вам все что захотите если победить его в битве.
+463|You can find Rubys, Diamonds, Emeralds, and Sapphires in the Gemstone mines.|Вы можете отыскать рубины, алмазы, изумруды и сапфиры в самоцветных шахтах.
+464|{d}Be sure to cast the levitate spell before you travel around outdoors, or you may fall in a Troll Hole.|{d}Не забудьте наложить на себя заклинание левитации, выходя во внешний мир, вы можете упасть в Ямы троллей.
+465|Alamar seized Prince Roland and has him locked up in the bottom of his Castle.|Аламар пленил принца Роланда и заточил его в недрах своего замка.
+466|{d}Some monsters leave their camps unguarded while they hunt.  Sometimes they leave treasure behind, but they will get revenge if you take it.|{d}Некоторые монстры оставляют свои лагеря без охраны, когда охотятся. Иногда они оставляют внутри сокровища. Но если их забрать, монстры будут мстить.
+467|{d}There is a rope ladder that leads to the skyroads above Darkside in the Dark Grove to the north of Castleview.|{d}В Темной Роще на севере Каслвью веревочная лестница ведет на небесные пути над Темной стороной.
+468|{d}Smile.  There is a pot of gold at the end of every rainbow.|{d} Благоволение. Горшок с золотом на конце каждой радуги
+469|All towns require a pass to enter.|Во все города требуется пропуск для входа.
+470|{b:007}{9:000}The Head Lich of Necropolis holds the key to the Dungeon of Death on the other side of the world.|{b:007}{9:000}Руководитель личей Некрополиса хранит ключ в Подземелье Смерти на другой стороне мира.
+471|The pass to Lakeside can be found in this town.|Пропуск в Лэйксайд можно найти в этом городе.
+472|The Enchantress will enchant Ambrose's bridle if you take it to her.|Волшебница заколдует уздечку Эмброуза, если вы дадите ее ей.
+473|{d}The only way to get into the part of Castle Blackfang Queen Kalindra is being kept at is to fly.|{d}Единственный способ попасть в эту часть замка Черный клык, где держат королеву Калиндру - это взлететь.
+474|The Witches of Lakeside have been turning people into monsters for sale as guards and slaves.|Ведьмы Лэйксайд превращают людей в монстров для продажи в качестве охранников и рабов.
+475|Some of the smarter monsters near this town have energy disks.|У некоторых разумных монстров близ города есть энергетические диски.
+476|{d}Alamar collected some of the keys to places on the other side of the world and has them stored in the bottom of his castle.|{d}Аламар собрал несколько ключей к местам на другом конце мира и расположил их в недрах своего замка.
+477|Alamar shut down the mirrors to keep hostile forces from using them for easy travel.|Аламар остановил работу зеркал, чтобы враждебные силы не использовали их для быстрых перемещений.
+478|There exists a God of the Mountains who can restore the gems to the Gemstone Mines.|Есть Бог горы, который восстанавливает самоцветы в шахтах самоцветов.
+479|Olympus can be found in the sky.|Олимпус можно найти в небе.
+480|You will need no special pass to enter Castle Alamar.|Тебе не понадобится специальный пропуск, чтобы войти в замок Аламара.
+481|Always be Positive when in the Dungeon of Lost Souls.|Всегда будь позитивным находясь а Темнице потерянных душ.
+482|The key to the Western Tower is inside the Western Tower.|Ключ к Восточной башне внутри Восточной башни.
+483|Darkside is but one side of a coin spinning through the void.|Темная сторона - это лишь одна сторона монеты, летящей сквозь бездну.
+484|Only a Soulbox can hide a Guardian.|Только Ларец душ может спрятать Хранителя.
+485|No mortal can defeat Alamar.|Ни один смертный не может победить Аламара.
+486|Nibbler the Monkeydog holds the key to the Temple of Bark.|Ниблер Обязьянопёс хранит ключ к храму Барка.
+487|Alamar was not born on Xeen.|Аламар родился не на Ксине.
+488|Lord Xeen's scepter and Alamar's Cube are keys to the destiny of Xeen.|Скипетр лорда Ксина и Куб Аламара - это ключи к судьбе Ксина.
+489|Evil is not Good.|Зло не есть добро.
+490|{b:000}{9:000}Only Robbers and Ninjas can steal successfully.|{b:000}{9:000}Только ниндзя и воры умеют хорошо воровать.
+491|Be sure to cast the levitate spell before you venture onto a cloud.|Не забудьте наложить на себя заклинание левитации, перед тем как отважитесь ступить на облака.
+492|Vampires and Mummies are vulnerable to Turn Undead spells.|Вампиры и мумии уязвимы к заклинаниям изгнания нежити.
+493|Two characters must have the pathfinder skill before you can walk in the forest.|Два персонажа должны обладать навыком следопыта, прежде чем отправиться в лес.
+494|Two characters must have the mountaineer skill before you can walk in the mountains.|Два персонажа должны обладать навыком альпиниста, прежде чем отправиться в горы.
+495|Everyone must have the swimming skill before you can venture into shallow water.|Два персонажа должны обладать навыком плавания, прежде чем отважиться ступить на мелководье.
+496|He who runs away lives to fight another day.|С поля брани кто сбегает - завтра снова в бой вступает.
+497|Be sure to put your excess gems in the bank...{a}you may need to ask Mr. Wizard for help.|Не забывайте хранить излишки своих алмазов в банке...{a}вам ведь может понадобиться помощь мистера Мага.
+498|Use the Jump spell to get over traps.|Используйте заклинание "Прыжок", чтобы преодолевать ловушки.
+499|{b:007}{9:000}You will earn interest on the money and gems you put in the bank.|{b:007}{9:000}Положив свои алмазы или золотые в банк, вы будете получать с них проценты.
+500|It can take a long time to get through the desert without a navigator.|Путешествие через пустыню без навигатора может занять немало времени.
+501|The talking trees communicate with one another on both sides of the world.|Говорящие деревья общаются друг с другом на обеих сторонах мира.
+502|Helping Thaddeus will restore your age to normal.|Помогите Фаддею восстановить ваш возраст до нормального.
+503|Use the Wizard Eye and Teleport spells to speed your explorations.|"Волшебный глаз" и заклинания телепорта ускорят ваши исследования мира.
+504|Use the grates to cut off pursuit.|Используйте решетки, чтобы отсечь погоню.
+505|Lead monsters away from treasure and then teleport back.|Уведите монстров от сокровища и затем телепортируйтесь обратно.
+506|Cast your protection spells at 5:00 in the morning to get the most from them.|Накладывайте заклятия защиты в 5 утра, чтобы получить максимальный эффект.
+507|{b:007}{9:000}Cast your protections spells in front of sources that gives spell points, then use the source to replenish them.|{b:007}{9:000}Накладывайте заклятия защиты перед источниками, дающими очки магии. Затем восполнитеиз них запас маны.
+508|Liquids of the same color tend to have the same effect.|Жидкости одного цвета как правило имеют такой же эффект.
+509|You should stop paying for tips once you have reached the 10th tip at a tavern.|Вам следует прекратить платить за подсказки после 10-й подсказки в таверне.
+510|Some monsters hate certain types of characters.|Некоторые монстры ненавидят определенные типы персонажей.
+511|Search fireplaces for secret buttons.|Ищите секретные кнопки в каминах.
+512|Use Teleport carefully inside of towers and castles.|Осторожно используйте телепортацию в замках и башнях.
+513|Each party member can have a return location for the Lloyd's beacon spell.|У каждого персонажа может быть своя точка возврата в заклинании "Маяк Ллойда".
+514|{b:007}{9:000}Assign one of your characters' Lloyd's Beacons to the space in front of a mirror for easy access to the rest of the world.|{b:007}{9:000}Установите "Маяк Ллойда" одного из ваших персонажей перед зеркалом, для быстрого доступа к остальной части мира.
+515|You must visit all eight corners of the world before the destiny of Xeen can be realized.|Вы должны обойти все восемь уголков мира, чтобы узнать судьбу Ксина.
+516|The Dungeon of Death on the other side of the world is the ultimate Might and Magic Challenge.|Подземелья смерти на другом конце мира - тяжелое испытание для меча и магии.
+517|The Soulbox is in the sewer under this city.|Ларец душ находится в канализации под городом.
+518|Don't travel on the river.  There are many monsters and rapids to slow your trip.|Не путешествуйте по реке. Там много монстров и порогов, замедляющих передвижение.
+519|Hi Mom and Dad!|Привет, мам и пап!
+520|Monster Grub:  Worm Skins and Tortoise Tongue.  A full pack will last 5 days before going bad.  Fill your packs for 10 gold?|Монстер Граб: Шкурки червей и язык черепахи. Полного комплекта хватит на 5 дней перед тем как начнет портиться.
+Наполните свои мешки за 10 золотых?
+521|Soldier's rations:  Salted meat and dried fruits.  100 gold will buy enough for 20 days.  Fill your packs?|Солдатские рационы: Соленое мясо и сухофрукты. За 100 золотых обеспечите себя на 20 дней. Наполните свои мешки?
+522|God's fare:  Ambrosia.  A full pack will keep for 40 days.  Fill your packs for 250 gold?|Божеская такса:  Амброзия. Полный комплект хранится 40 дней. Наполните свои мешки за 250 золотых?
+523|====|====
+524||
+525|Human|Человек
+526|Elf|Эльф
+527|Gnome|Гном
+528|Dwarf|Дворф
+529|H-Orc|П-Орк
+530||
+531|Good|Добрый
+532|Neutral|Нейтрал.
+533|Evil|Злой
+534|Male|Мужчина
+535|Female|Женщина
+536|Might|Сила
+537|Intellect|Интеллект
+538|Personality|Сила духа
+539|Endurance|Сложение
+540|Speed|Скорость
+541|Accuracy|Меткость
+542|Luck|Удача
+543|Age|Возр.
+544|Level|Ур.
+545|Armor Class|Кл. защиты
+546|Hit Points|О. здоровья
+547|Spell Points|О. магии
+548|Resistances|Устойчивость
+549|Skills|Навыки
+550|Awards|Награды
+551|Experience|Опыт
+552|Gold|Зол.
+553|Gems|Алм.
+554|Food|Еда
+555|Condition|Состояние
+556|Thievery{9:100}|Воровство{9:100}
+557|Arms Master|Оружейник
+558|Astrologer|Астролог
+559|Body Builder|Атлет
+560|Cartographer|Картограф
+561|Crusader|Крестоносец
+562|Direction Sense|Чувство Направления
+563|Linguist|Языковед
+564|Merchant|Купец
+565|Mountaineer|Скалолаз
+566|Navigator|Штурман
+567|Path Finder|Следопыт
+568|Prayer Master|Мастер Молитвы
+569|Prestidigitator|Ловкость Пальцев
+570|Swimmer|Пловец
+571|Tracker|Охотник
+572|Spot Secret Doors|Восприятие
+573|Danger Sense|Чувство Опасности
+574|Nonexistant|Нет
+575|Very Poor|Мизерный
+576|Poor|Скудный
+577|Very Low|Оч. Низкий
+578|Low|Низкий
+579|Average|Средний
+580|Good|Хороший
+581|Very Good|Оч. Хороший
+582|High|Высокий
+583|Very High|Оч. Высокий
+584|Great|Большой
+585|Super|Огромный
+586|Amazing|Удивительный
+587|Incredible|Невероятный
+588|Gigantic|Гигантский
+589|Fantastic|Фантастичный
+590|Astounding|Изумительный
+591|Astonishing|Поразительный
+592|Monumental|Грандиозный
+593|Tremendous|Громадный
+594|Colossal|Колоссальный
+595|Awesome|Потрясающий
+596|Awe Inspiring|Чудовищный
+597|Ultimate|Максимальный
+598|damage|урон
+599|spell points/level|оч. магии/уровень
+600|resistance|устойчивость
+601|hit points/level|оч. здоровья/уровень
+602|armor class|класс защиты
+603|to hit target|урон по цели
+604|to chance|рискнуть
+605|====|====
