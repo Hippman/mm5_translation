@@ -162,11 +162,9 @@
 162|{c:04} * {c:d}Find Ector's ring and return it to him at E2,3,12.|{c:04} * {c:d}Отыщите кольцо Эктора и верните его ему на E2,3,12.
 163|{c:04} * {c:d}Find Caleb's magnifying glass and return it to him at E3,13,13.|{c:04} * {c:d}Найдите увеличительное стекло Калеба и верните его ему на E3,13,13.
 164|{c:04} * {c:d}Find the Jewel of Ages and return it to Thaddeus at F4,6,7.|{c:04} * {c:d}Найдите Алмаз Вечности и верните его Тадеусу на F4,6,7.
-165|{c:04} * {c:d}Stop Gettlewaith the gremlin from sabotaging the town and report back to Mayor Snarfblad in Castleview at 23,27.|{c:04} * {c:d}Заставьте гремлина Джетлуэйтзи прекратить саботаж в 
-городе и доложите Мэру Снарфблад в Каслвью на  23,27.
+165|{c:04} * {c:d}Stop Gettlewaith the gremlin from sabotaging the town and report back to Mayor Snarfblad in Castleview at 23,27.|{c:04} * {c:d}Заставьте гремлина Джетлуэйтзи прекратить саботаж в городе и доложите Мэру Снарфблад в Каслвью на  23,27.
 166|{c:04} * {c:d}Release Jethro's brother from jail and return to Jethro with the good news in Castleview at 22,24.|{c:04} * {c:d}Освободите брата Джетро из тюрьмы и вернитесь к Джетро с хорошими новостями в Каслвью на 22,24.
-167|{c:04} * {c:d}Find and return Nadia's onyx necklace in Castleview at 27,19.|{c:04} * {c:d}Найти и вернуть ониксовое ожерелье Нади из Каслвью
-на 27,19.
+167|{c:04} * {c:d}Find and return Nadia's onyx necklace in Castleview at 27,19.|{c:04} * {c:d}Найти и вернуть ониксовое ожерелье Нади из Каслвьюна 27,19.
 168|{c:04} * {c:d}Put an end to Xenoc and Morgana's reign of terror and report back to Astra in Sandcaster at 20,14.|{c:04} * {c:d}Положите конец террору Ксенока и Морганы и доложите Астре в Сандкастер 20,14.
 169|{c:04} * {c:d}Find Sandro's heart and return it to him in Necropolis at 10,8.|{c:04} * {c:d}Найдите сердце Сандро и верните его ему в Некрополис на 10,8.
 170|{c:04} * {c:d}Save Queen Kalindra!|{c:04} * {c:d}Спасите королеву Калиндру!
@@ -519,8 +517,7 @@
 517|The Soulbox is in the sewer under this city.|Ларец душ находится в канализации под городом.
 518|Don't travel on the river.  There are many monsters and rapids to slow your trip.|Не путешествуйте по реке. Там много монстров и порогов, замедляющих передвижение.
 519|Hi Mom and Dad!|Привет, мам и пап!
-520|Monster Grub:  Worm Skins and Tortoise Tongue.  A full pack will last 5 days before going bad.  Fill your packs for 10 gold?|Монстер Граб: Шкурки червей и язык черепахи. Полного комплекта хватит на 5 дней перед тем как начнет портиться.
-Наполните свои мешки за 10 золотых?
+520|Monster Grub:  Worm Skins and Tortoise Tongue.  A full pack will last 5 days before going bad.  Fill your packs for 10 gold?|Монстер Граб: Шкурки червей и язык черепахи. Полного комплекта хватит на 5 дней перед тем как начнет портиться.Наполните свои мешки за 10 золотых?
 521|Soldier's rations:  Salted meat and dried fruits.  100 gold will buy enough for 20 days.  Fill your packs?|Солдатские рационы: Соленое мясо и сухофрукты. За 100 золотых обеспечите себя на 20 дней. Наполните свои мешки?
 522|God's fare:  Ambrosia.  A full pack will keep for 40 days.  Fill your packs for 250 gold?|Божеская такса:  Амброзия. Полный комплект хранится 40 дней. Наполните свои мешки за 250 золотых?
 523|====|====
