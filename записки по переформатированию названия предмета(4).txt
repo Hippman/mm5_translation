@@ -804,3 +804,20 @@ jz      short loc_4D41F
 Меню книги заклинаний: Колд -> Закл
 
 
+=================================
+чиним заставку
+179d:122f - e5e=93f:122f
+
+83 3e f4 4c 00 cmp position strimg 0
+83 3e 68 3e 02 cmp sound-flag 2
+
+меняем в print_text_and_sound 
+cmp sound_flag 2 
+jb short loc_1e6f8
+
+на
+
+cmp position_strimg 1
+jga short loc_1e6f8
+
+это делает переход только если счетчик больше. Значит строка не будет зацикливаться
